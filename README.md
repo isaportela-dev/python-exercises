@@ -26,6 +26,8 @@ The main goal is to improve programming logic, build consistency through daily c
 ---
 
 ## 📂 Project Structure
+
+```
 python-exercises/
 │
 ├── fundamentals/
@@ -36,6 +38,7 @@ python-exercises/
 ├── strings/
 ├── dictionaries/
 └── files/
+```
 
 
 Each folder contains small exercises focused on a specific concept.
