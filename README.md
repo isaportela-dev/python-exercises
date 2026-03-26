@@ -71,14 +71,6 @@ I am focused on backend development using Python and Java, and continuously impr
 
 ---
 
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/isabellarportela/])
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaportela6@gmail.com)
-
----
-
 ## ✨ Notes
 
 This repository is part of my learning journey — feel free to explore!
